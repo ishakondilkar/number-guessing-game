@@ -20,7 +20,7 @@ A simple guessing game built using Python's `random`, `input`, and `if-else` sta
 ---
 
 ## 📷 Screenshot (optional)
-_Add a screenshot of your terminal output if you want!_
+![image](https://github.com/user-attachments/assets/0deb0b42-53d2-4cb2-83b8-1b20f2ebcf43)
 
 ---
 
